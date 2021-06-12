@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\marco\OneDrive\Escritorio\Visual Studio 2019\Reversi\Reversi\Tablero.h(418,19): warning C4553: '==': result of expression not used; did you intend '='?
+  ReversiPruebas.vcxproj -> C:\Users\marco\OneDrive\Escritorio\Visual Studio 2019\Reversi\Debug\ReversiPruebas.exe

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\marco\OneDrive\Escritorio\Visual Studio 2019\Reversi\Debug\ReversiPruebas.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaFilas_2_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.InicializacionCorrecta" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.ColocacionFichaCorrecta" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaFilas_1_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaFilas_1_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaFilas_2_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueColumna_1_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueColumna_1_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaColumna_2_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaColumna_2_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagAsc_1_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagAsc_1_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagAsc_2_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagAsc_2_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagAsc_3_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagAsc_3_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagAsc_4_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagAsc_4_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDec_1_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDec_1_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDec_2_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDec_2_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDec_3_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDec_3_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.FlanqueaFilas_1_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.FlanqueaFilas_1_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.FlanqueaFilas_2_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.FlanqueaFilas_2_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.FlanqueaColumnas_1_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.FlanqueaColumnas_1_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.FlanqueaColumnas_2_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.FlanqueaColumnas_2_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDsc_1_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDsc_1_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDsc_2_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDsc_2_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDsc_3_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDsc_3_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDsc_4_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFlanqueaDiagDsc_4_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.validarJugada_1_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.validarJugada_1_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.validarJugada_2_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.validarJugada_2_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.validarJugada_3_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.validarJugada_3_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.validarJugada_4_t" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.validarJugada_4_f" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.verFin" Duration="2" />
+    <TestDuration Test="TableroReversiPruebas.flanqueaFila_1" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.flanqueaColumna_1" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.flanqueaDiagAsc_1" Duration="1" />
+    <TestDuration Test="TableroReversiPruebas.flanqueaDiagDesc_1" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
